@@ -1,0 +1,6 @@
+.env
+.env.default
+
+node_modules/*
+
+notes.md
